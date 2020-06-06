@@ -1,7 +1,5 @@
-# Lightweight-Trigger-Framework
-<p>A lightweight trigger handler framework for Salesforce Apex.</p> 
-
-<p>Complex Apex trigger frameworks getting you down? This is a very lightweight trigger framework to get you started.</p> 
+# Salesforce-Trigger-Framework
+<p>A simple easy-to-use trigger handler framework for Salesforce Apex.</p> 
 
 <h1>How to implement this trigger pattern</h1>
 <ol>
